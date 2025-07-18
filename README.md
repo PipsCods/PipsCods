@@ -1,6 +1,5 @@
-### Hi, I'm Filippo 👋
-I'm a Master's student in Data Science at EPFL, passionate about quantitative finance, mathematics, and data engineering.
-
+### Hi, I'm Filippo.
+MSc Data Science @ EPFL | Interested in Quant Finance and AI
 <!---
 #### 🔬 Projects
 - 🧠 [Facial Expression Recognition](https://github.com/yourusername/facial-recognition): Real-time multi-face detection and emotion classification.
