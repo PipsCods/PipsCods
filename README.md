@@ -1,5 +1,5 @@
 ### Hi, I'm Filippo.
-MSc Data Science @ EPFL | Interested in Quant Finance and AI
+MSc Data Science @ EPFL | Interested in AI and Computer Vision
 
 #### 🔬 Additional Projects I contributed: 
  - ⚡ [SAETTA](https://github.com/AleDeso/digiHORECA_MVP_marketplace): Digital marketplace connecting HoReCa companies to their suppliers.
